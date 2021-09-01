@@ -1,6 +1,5 @@
 FROM quay.io/alexcheng1982/apache2-php7:7.3.12
 
-LABEL maintainer="alexcheng1982@gmail.com"
 LABEL php_version="7.3.12"
 LABEL magento_version="2.3.6"
 LABEL description="Magento 2.3.6 with PHP 7.3.12"
